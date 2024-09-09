@@ -1,31 +1,36 @@
-# Nuxt 3 Minimal Starter
+# 🌐 Nuxt 3 Starter Template with PrimeVue Sakai Theme
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+🚀 This is a base template for projects using **Nuxt 3** and **PrimeVue** with the modern and sleek [Sakai Theme](https://sakai.primevue.org/). Combine the power of Nuxt.js with the versatility of PrimeVue to build interactive and reactive web applications.
 
-## Setup
+📚 **Relevant Documentation:**
+- [Nuxt 3 Documentation](https://nuxt.com/docs/getting-started/introduction)
+- [PrimeVue](https://primevue.org/)
+- [Sakai Theme Preview](https://sakai.primevue.org/)
 
-Make sure to install the dependencies:
+## ⚙️ Setup
+
+Make sure to install the necessary dependencies:
 
 ```bash
-# yarn
+# Using yarn
 yarn install
 
-# npm
+# Using npm
 npm install
 
-# pnpm
+# Using pnpm
 pnpm install
 ```
 
-## Development Server
+## 🛠️ Development Server
 
-Start the development server on `http://localhost:3000`
+Start the development server at `http://localhost:3000`:
 
 ```bash
 npm run dev
 ```
 
-## Production
+## 🚢 Production
 
 Build the application for production:
 
@@ -33,10 +38,14 @@ Build the application for production:
 npm run build
 ```
 
-Locally preview production build:
+Preview the production build locally:
 
 ```bash
 npm run preview
 ```
 
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+📦 For more details on deployment, check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment).
+
+---
+
+🔍 **Explore the combination of Nuxt 3 and PrimeVue** to create stunning web applications with this minimal and easy-to-use template. Start now and build your next app with style and functionality! ✨
