@@ -2,6 +2,8 @@
 
 🚀 This is a base template for projects using **Nuxt 3** and **PrimeVue** with the modern and sleek [Sakai Theme](https://sakai.primevue.org/). Combine the power of Nuxt.js with the versatility of PrimeVue to build interactive and reactive web applications.
 
+![Nuxt 3 and PrimeVue](public/demo/images/readme.png)
+
 📚 **Relevant Documentation:**
 - [Nuxt 3 Documentation](https://nuxt.com/docs/getting-started/introduction)
 - [PrimeVue](https://primevue.org/)
